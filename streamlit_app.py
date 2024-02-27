@@ -14,7 +14,7 @@ from sklearn.metrics import classification_report
 # Define the Streamlit app
 def app():
     
-    st.title('Symbol Classification')
+    st.title('Emoji Symbol Classification')
     st.subheader('by John Richard B. Palmos, BSCS 3B-AI')
     
     st.write('Dataset description: This dataset consists of images of symbols, particularly emojis, represented in a digital format.  ')
